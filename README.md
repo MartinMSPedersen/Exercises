@@ -89,7 +89,7 @@ Programming Exercises
 ➀➆  Suface Area of a Sphere  
 ➀➇  Volume of a Sphere  
 ➀➈  Surface Area of a Hemisphere  
-②⓪  Volume of a Hemisphere  
+➁⓪  Volume of a Hemisphere  
 ➁➀  Surface area of a Cube  
 ➁➁  Volume of a Cube  
 ➁➂  Surface area of a Cylinder  

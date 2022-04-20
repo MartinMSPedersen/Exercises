@@ -9,6 +9,10 @@ Programming Exercises
 ➏  Matrix  
 ➐  Set  
 ➑  Special Numbers  
+➒  Input, Processing and Output
+➓  Repetition
+➊➊  Working with External Services 
+➊➋  Data Structures  
 
 ---
 
@@ -39,6 +43,7 @@ Programming Exercises
 ➁➂  Find the GCD of 2 numbers  
 ➁➃  Find the LCM of 2 numbers  
 
+⒠
 ---
 
 ➋  Unit Conversion  
@@ -158,3 +163,33 @@ Programming Exercises
 ➁➂  Trimorphic Number  
 ➁➃  Evil Number  
 ➁➄  Amicable Pairs  
+
+---
+
+➒  Input, Processing and Output
+➀  Counting the Number of Characters  
+
+---
+
+➓  Repetition
+➀  Adding Numbers
+➁  Multiplication Table
+➂  Karvonen Heart Rate
+➃  Guess the Number Game
+
+----
+
+➊➊  Working with External Services 
+➀  Who's in Space?  
+➁  Grabbing the Weather  
+➂  Flickr Photo Search  
+➃  Movie Recommendations  
+➄  Creating Your Own Time Service  
+
+----
+
+➊➋  Data Structures
+➀  Picking a Winner  
+➁  Employee List Removal  
+➂  Password Generator    
+➃  Filtering Records  

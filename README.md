@@ -43,7 +43,6 @@ Programming Exercises
 ➁➂  Find the GCD of 2 numbers  
 ➁➃  Find the LCM of 2 numbers  
 
-⒠
 ---
 
 ➋  Unit Conversion  

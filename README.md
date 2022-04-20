@@ -53,6 +53,8 @@ Programming Exercises
 ➇  Time  
 ➈  Currency  
 
+---
+
 ➌  Calculation  
 
 ➀  Find the exponentiation of a number  

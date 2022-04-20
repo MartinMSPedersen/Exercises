@@ -165,16 +165,16 @@ Programming Exercises
 
 ---
 
-➒  Input, Processing and Output
-➀  Counting the Number of Characters  
+➒  Input, Processing and Output  
+➀  Counting the Number of Characters    
 
 ---
 
-➓  Repetition
-➀  Adding Numbers
-➁  Multiplication Table
-➂  Karvonen Heart Rate
-➃  Guess the Number Game
+➓  Repetition  
+➀  Adding Numbers  
+➁  Multiplication Table  
+➂  Karvonen Heart Rate  
+➃  Guess the Number Game  
 
 ----
 

@@ -178,7 +178,7 @@ Programming Exercises
 
 ----
 
-➊➊  Working with External Services 
+➊➊  Working with External Services  
 ➀  Who's in Space?  
 ➁  Grabbing the Weather  
 ➂  Flickr Photo Search  

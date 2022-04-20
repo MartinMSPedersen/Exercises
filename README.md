@@ -187,8 +187,8 @@ Programming Exercises
 
 ----
 
-➊➋  Data Structures
-➀  Picking a Winner  
+➊➋  Data Structures  
+➀  Picking a Winner   
 ➁  Employee List Removal  
 ➂  Password Generator    
 ➃  Filtering Records  

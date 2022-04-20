@@ -9,9 +9,9 @@ Programming Exercises
 ➏  Matrix  
 ➐  Set  
 ➑  Special Numbers  
-➒  Input, Processing and Output
-➓  Repetition
-➊➊  Working with External Services 
+➒  Input, Processing and Output  
+➓  Repetition  
+➊➊  Working with External Services  
 ➊➋  Data Structures  
 
 ---

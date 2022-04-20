@@ -152,7 +152,7 @@ Programming Exercises
 ➀➆  Neon Number  
 ➀➇  Spy Number  
 ➀➈  Happy Number  
-②⓪  Sunny Number  
+➁⓪  Sunny Number  
 ➁➀  Disarium Number  
 ➁➁  Pronic Number  
 ➁➂  Trimorphic Number  
